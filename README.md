@@ -8,5 +8,5 @@ Scrapy project for thesis harvesting. Harvests metadata from [BASE](http://base-
 
 - [baseharvest/items.py](baseharvest/items.py) contains items where BASE data are stored.
 
-- [Example input](record.xml), in BASE extended Dublin core metadata format.
+- [Example input](recordi.xml), in BASE extended Dublin core metadata format.
 - [Example output](jsons/butt_rachel_deborah_2013-05-09T05:16:48Z.json), in Inspire-friendly format.
