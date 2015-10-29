@@ -1,6 +1,6 @@
 # baseharvest
 
-Scrapy project for thesis harvesting.
+Scrapy project for thesis harvesting. Harvests metadata from [BASE](http://base-search.net/)
 
 - [baseharvest/spiders/base_spider.py](baseharvest/spiders/base_spider.py) is the spider which parses information from an BASE data XML file.
 
