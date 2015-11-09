@@ -6,7 +6,7 @@ Scrapy project for thesis harvesting. Harvests metadata from [BASE](http://base-
 
 - [baseharvest/pipelines.py](baseharvest/pipelines.py) is the pipeline where scrapy writes the scraped items to an JSON file.
 
-- [baseharvest/items.py](baseharvest/items.py) contains items where BASE data are stored.
+- [baseharvest/items.py](baseharvest/items.py) defines items where BASE data are stored.
 
 - [Example input](recordi.xml), in BASE extended Dublin core metadata format.
 - [Example output](jsons/butt_rachel_deborah_2013-05-09T05:16:48Z.json), in Inspire-friendly format.
